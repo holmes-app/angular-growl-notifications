@@ -2,7 +2,7 @@
     "name"           : "growl-notifications",
     "version"        : "0.7.0",
     "main"           : [
-        "dist/growl-notifications.js"
+        "dist/growl-notifications.min.js"
     ],
     "keywords"       : [
         "angular",
